@@ -19,5 +19,10 @@ This project analyzes e-commerce customer transaction data using RFM (Recency, F
 ## Dataset
 Online retail transactional dataset used for customer behavior analysis.
 
+## Dashboard Preview
+
+![Power BI Dashboard](images/dashboard.png)
+
+
 ## Author
 Nishika Gangwani
